@@ -30,6 +30,7 @@
     "node-red-contrib-slack": "^0.1.1",
     "node-red-contrib-td": "0.0.8",
     "node-red-node-arduino": "0.0.9",
+    "node-red-contrib-keikyu": "1.0.0",
     "request": "^2.65.0",
     "uuid": "^2.0.1",
     "when": "~3.x"
